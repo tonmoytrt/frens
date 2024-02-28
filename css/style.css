@@ -768,11 +768,12 @@ img,video {
   display: inline-block;
   text-decoration: none;
   text-transform: uppercase;
-  background: #8ce9e1;
-  color: #000;
+  background: #216b06;
+  color: #ffffff;
   padding: 12px 40px;
   position: relative;
   font-family: sans-serif;
+  border-radius: 50% 10%;
   box-shadow: -7px 7px #000
 }
 
